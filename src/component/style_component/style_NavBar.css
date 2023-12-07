@@ -1,0 +1,42 @@
+nav {
+    background-color: #000000;
+    width: 100%;
+    bottom: 0;
+
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    margin-right: 20px;
+}
+
+.select-style {
+    background: black;
+    border: black;
+    color: white;
+}
+
+.city {
+    display: flex;
+    align-items: center;
+}
+
+.list_city {
+    margin-left: 10px;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.SearchSite {
+    margin-left: 10px;
+}
