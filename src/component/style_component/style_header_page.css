@@ -1,7 +1,9 @@
 .header_body {
-  background-image: url('../bg_photo.png');
+  background-image: url('../../media/bg_photo.png');
   background-size: cover; /* Растянуть изображение на весь фон */
   background-position: center center; /* Выравнивание изображения по центру */
   background-repeat: no-repeat; /* Запрет повторения изображения */
   color: white;
+  height: 949px;
+
 }
